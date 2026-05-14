@@ -12,5 +12,14 @@ Welcome to the LinqB2B repository. This repository contains the frontend, backen
 
 Refer to the individual README files in each directory for specific setup and development instructions:
 
+- [Frontend README](./frontend/README.md)
 - [Backend README](./backend/README.md)
+- [Indexer README](./indexer/README.md)
+
+## Deployment
+
+Detailed deployment guides for each service are available within their respective folders.
+
+- [Koyeb Deployment for Indexer](./indexer/KOYEB_DEPLOYMENT.md)
+- [Setup Guide for Backend](./backend/SETUP.md)
 
